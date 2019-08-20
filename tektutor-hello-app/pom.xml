@@ -231,11 +231,11 @@
                                 <file>${project.build.directory}/tektutor-hello-app-1.0.0.jar</file>
                         </configuration>
                         </plugin>
-                </plugins>
-        </build>
+                
+        
 	
-	<build>
-                <plugins>
+	
+                
                         <plugin>
                                 <groupId>org.apache.maven.plugins</groupId>
                                 <artifactId>maven-deploy-plugin</artifactId>
